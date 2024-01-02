@@ -6,6 +6,6 @@ pandas>=0.19
 pytest
 pytest-cov
 black 
-
+pylint
 
 
