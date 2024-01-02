@@ -5,6 +5,7 @@ matplotlib>=1.4.3
 pandas>=0.19
 pytest
 pytest-cov
+black 
 
 
 
